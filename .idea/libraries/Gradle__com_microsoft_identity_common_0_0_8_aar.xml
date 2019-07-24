@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.microsoft.identity:common:0.0.8@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/common-0.0.8.aar/0d1352fc365a0783fcbbeef81f2917a6/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/common-0.0.8.aar/0d1352fc365a0783fcbbeef81f2917a6/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.microsoft.identity/common/0.0.8/77aa1ee545e19f7c6c9ad1e17fca7a9816a99dfc/common-0.0.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

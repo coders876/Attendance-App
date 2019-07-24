@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Tue Apr 16 11:48:22 IST 2019
+1.base=/home/prerak/final_project/noproxy_API_21/app/build/intermediates/dex/debug/mergeProjectDexDebug/out
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=/home/prerak/final_project/noproxy_API_21/app/build/intermediates/dex/debug/mergeExtDexDebug/out
+1.path=classes.dex

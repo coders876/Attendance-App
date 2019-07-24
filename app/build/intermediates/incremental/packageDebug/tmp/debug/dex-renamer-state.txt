@@ -1,0 +1,7 @@
+#Sat Apr 27 00:38:41 IST 2019
+base.0=/home/prerak/final_project/noproxy_API_21/app/build/intermediates/dex/debug/mergeExtDexDebug/out
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/home/prerak/final_project/noproxy_API_21/app/build/intermediates/dex/debug/mergeProjectDexDebug/out
